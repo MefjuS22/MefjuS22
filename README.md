@@ -1,3 +1,3 @@
-# Front-End Developer based in __Cracow, Poland__
+# Full Stack Developer based in __Cracow, Poland__
 
 
